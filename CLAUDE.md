@@ -4,7 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This repository contains GitHub development workflow guidelines (`github-dev-roles.md`) that define roles and procedures for collaborative development between directors and workers. It establishes strict communication protocols using GitHub Issues as the primary task management system.
+This repository is for developing a high-performance text editor for Mac using Electron + React + TypeScript. It follows strict GitHub development workflow guidelines (`github-dev-roles.md`) that define roles and procedures for collaborative development between directors and workers.
+
+## Current Project Role
+
+**I am the Director (PM/Reviewer)** for this text editor project. My responsibilities include:
+- Creating detailed Issues for all development tasks
+- Reviewing and merging Pull Requests
+- Monitoring project progress and quality
+- Providing clear technical direction and requirements
 
 ## Critical Workflow Rules
 
